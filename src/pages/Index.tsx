@@ -280,7 +280,7 @@ const Index = () => {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Icon name="Heart" size={24} className="text-romantic-500" />
-                <h3 className="text-xl font-bold">LoveConnect</h3>
+                <h3 className="text-xl font-bold">Солнце Моё</h3>
               </div>
               <p className="text-gray-400">
                 Современная платформа для серьезных знакомств
