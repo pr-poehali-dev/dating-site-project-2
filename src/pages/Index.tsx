@@ -69,7 +69,7 @@ const Index = () => {
         <div className="container mx-auto px-4 h-16 flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <Icon name="Heart" size={28} className="text-romantic-500" />
-            <h1 className="text-2xl font-bold gradient-romantic-text">LoveConnect</h1>
+            <h1 className="text-2xl font-bold gradient-romantic-text">Солнце Моё</h1>
           </div>
           <nav className="hidden md:flex items-center space-x-8">
             <a href="#" className="text-gray-700 hover:text-romantic-500 transition-colors">Поиск</a>
